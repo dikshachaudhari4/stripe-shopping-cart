@@ -41,7 +41,7 @@ router.get('/contactus', function (req, res, next) {
     res.render('user/contactus', {csrfToken: req.csrfToken(), messages: messages, hasErrors: messages.length > 0});
 });
 
-app.post("/contactus",async(req,res) => {
+router.post("/contactus",async(req,res) => {
     try{
         const stdsub = new contact({
             name:req.body.name,
