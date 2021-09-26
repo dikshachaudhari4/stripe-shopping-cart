@@ -59,7 +59,7 @@ app.use(function(req, res, next) {
 
 
 app.use('/', mainRoute);
-app.use('/user', userRoutes);
+app.use('/', userRoutes);
 app.use('/', checkoutRoutes);
 app.use('/', cartRoutes);
 
