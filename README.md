@@ -11,6 +11,9 @@ This project work with Stripe api for Nodejs. Go to http://stripe.com/ for more 
 ![Screenshot (179)](https://user-images.githubusercontent.com/52134154/134818013-23235143-6608-4864-b3d0-227fd4828942.png)<br><br><br>
 ![Screenshot (178)](https://user-images.githubusercontent.com/52134154/134818016-b08c9931-5244-4351-8f82-1467d9172293.png)
 
+### Video 
+https://youtu.be/9DvMeJWnM_Y
+
 ## Requirements
 - mongodb with Robo3T or MongoDB Compass
 - node.js
