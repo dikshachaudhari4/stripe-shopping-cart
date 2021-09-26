@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node run migration:write",
-    "migration:write": "node migrations/products-migration.js"
+    "start": "node ./bin/www",
+    "migration:write": "eun node migrations/products-migration.js"
   },
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
