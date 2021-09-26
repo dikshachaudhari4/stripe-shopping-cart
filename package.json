@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node app.js -e js,hbs",
+    "start": "node app.js ",
     "migration:write": "node migrations/products-migration.js"
   },
   "dependencies": {
