@@ -53,8 +53,7 @@ const products = [
     new Product({
         imagePath: 'https://upload.wikimedia.org/wikipedia/ru/2/24/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_Resident_Evil_Village.jpg',
         title: 'Resident Evil Village',
-        description: 'Resident Evil Village is a survival horror game developed and published by Capcom. The sequel to Resident Evil 7: Biohazard, players control Ethan Winters, who is searching for his kidnapped daughter; after a fateful encounter with Chris Redfield, he finds himself in a village filled with mutant creatures.',
-        price: 50
+        description: ' price: 50
     }),
     new Product({
         imagePath: 'https://store.ubi.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw7387f247/images/large/5ecd2c925cdf9a1528a8c1d1.jpg?sw=341&sh=450&sm=fit',
